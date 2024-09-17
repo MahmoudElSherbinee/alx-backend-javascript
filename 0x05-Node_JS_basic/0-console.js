@@ -3,7 +3,7 @@
  * Uses console.log
  */
 const displayMessage = (msg) => {
-  console.log(`${msg} \n`);
+  console.log(`${msg}`);
 };
 
 module.exports = displayMessage;
